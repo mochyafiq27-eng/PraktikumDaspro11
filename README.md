@@ -3,4 +3,12 @@ Ini adalah repository pertama saya
 - NIM: 264107060113
 - Kelas: SIB-1D
 
->>>>>>> 1691d3ea53bd505182ae20836902299d2a11d7e7
+Hasil Uji Studi Kasus 2 oleh Moch Yafiq<Nama></nama>
+
+| No | Jenis | Dokumen | Juara/Dana | Output       | Sesuai? |
+| -- | ----- | ------- | ---------- | ------------ | ------- |
+| 1  | 2     | 4       | 3          | Berhak       | Ya      |
+| 2  | 3     | 4       | 0          | Tidak Berhak | Ya      |
+| 3  | 4     | 1       | 1          | Berhak       | Ya      |
+| 4  | 0     | 4       | 0          | Tidak Berhak | Ya      |
+--------------------------------------------------------------
